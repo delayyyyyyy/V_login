@@ -32,7 +32,7 @@
 <script setup lang="ts">
 const stats = [
   { label: '团队规模', value: 50, prefix: '', suffix: '人' },
-  { label: '服务用户', value: 100, prefix: '', suffix: '家' },
+  { label: '服务用户', value: 1000, prefix: '', suffix: '家' },
   { label: '成交总额', value: 1000, prefix: '¥', suffix: '亿' }
 ]
 </script>
